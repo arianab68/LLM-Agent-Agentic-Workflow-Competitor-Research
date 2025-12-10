@@ -1,4 +1,4 @@
-# n8n LLM vs. AI Agent vs. Agentic Competitor Research System  
+# n8n: LLM vs. AI Agent vs. Agentic Competitor Research System  
 _AI-driven weekly competitor monitoring built as an AI Product Manager_
 
 The goal of this project is to demonstrate, from an **AI Product Management perspective**, how to:
